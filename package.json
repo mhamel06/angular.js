@@ -5,6 +5,7 @@
     "type": "git",
     "url": "https://github.com/angular/angular.js.git"
   },
+  
   "devDependencies": {
     "angular-benchpress": "0.x.x",
     "benchmark": "1.x.x",
